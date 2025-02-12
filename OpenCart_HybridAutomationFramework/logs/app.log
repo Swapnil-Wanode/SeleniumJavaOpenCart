@@ -1,0 +1,5 @@
+2025-01-31 11:26:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\swanode\OneDrive - Capgemini\Documents\Java Selenium\OpenCart\grouping.xml"
+2025-01-31 11:26:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\swanode\OneDrive - Capgemini\Documents\Java Selenium\OpenCart\grouping.xml
+
+2025-01-31 11:26:26 [main] INFO  testCases.TC002_LoginTest - ***** Starting login test : TC002_LoginTest*****
